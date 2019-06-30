@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+        <domainApi status = "ok">
+        
+                <request request_no = "5">
+        
+                    <requestedIpAddress>192.168.43.192</requestedIpAddress>
+        
+                    <apiKey>f0e7ec771504e81f6b4afd9ec598899f</apiKey>
+                    
+                    <operation>checkAvailability</operation>
+
+                    <domainName>yashchandani.com</domainName>
+
+                    <responseFormat>xml</responseFormat>
+        
+                </request>
+        
+                <response response_no = "5">
+        
+                    <reply>success</reply>
+
+                    <apiCalls>2</apiCalls>
+        
+                    <domainAvailable name="yashchandani.com">1</domainAvailable>
+        
+                </response>
+        
+        </domainApi>

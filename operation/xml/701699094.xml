@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+        <domainApi status = "ok">
+        
+                <request request_no = "0">
+        
+                    <requestedIpAddress>192.168.43.192</requestedIpAddress>
+        
+                    <apiKey>aijs</apiKey>
+                    
+                    <operation>checkAvailability</operation>
+
+                    <domainName>Not Provided</domainName>
+
+                    <responseFormat>xml</responseFormat>
+        
+                </request>
+        
+                <response response_no = "0">
+        
+                    <reply>Error</reply>
+
+                    <apiCalls>0</apiCalls>
+        
+                    <errorInfo name="">Invalid API key! Please visit our API Manager section for valid API</errorInfo>
+        
+                </response>
+        
+        </domainApi>
